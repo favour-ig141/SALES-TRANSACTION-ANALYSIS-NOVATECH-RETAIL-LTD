@@ -117,7 +117,7 @@ This dashboard enables management to:
 ---
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Novatechdashboardshort.png)
 ---
 ## Author
 
